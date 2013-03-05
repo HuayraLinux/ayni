@@ -1,0 +1,2 @@
+version=3
+https://github.com/gcoop-libre/ayni/tags .*/(\d[\d\.]+)\.tar\.gz
